@@ -10,28 +10,28 @@ The project demonstrates concepts in computer graphics, including shader-based r
 
 ## Features
 
-•Interactive Camera Modes:
-Auto-orbit mode for smooth circling around the scene.
-Free-FPS mode with mouse-look and WASD movement (clamped within room bounds).
+•Interactive Camera Modes:<br>
+Auto-orbit mode for smooth circling around the scene.<br>
+Free-FPS mode with mouse-look and WASD movement (clamped within room bounds).<br>
 
-•Dynamic Lighting:
-Sunlight (directional) influenced by window/door openness.
-Point lights: Desk lamp, ceiling light, and door light.
-Toggle lights and adjust intensity.
+•Dynamic Lighting:<br>
+Sunlight (directional) influenced by window/door openness.<br>
+Point lights: Desk lamp, ceiling light, and door light.<br>
+Toggle lights and adjust intensity.<br>
 
-•Animations and Interactions:
-Open/close doors and windows with sound effects (Windows-only).
-Toggle PC screen, lamps, and other elements.
-Smooth animations for door/window movements.
+•Animations and Interactions:<br>
+Open/close doors and windows with sound effects (Windows-only).<br>
+Toggle PC screen, lamps, and other elements.<br>
+Smooth animations for door/window movements.<br>
 
 •3D Models and Textures:
-Loaded OBJ models: Bed, desk, chair, lamp, PC, wardrobe, bike, etc.
-Textures for walls, floor, ceiling, and objects (e.g., wood, metal, posters).
+Loaded OBJ models: Bed, desk, chair, lamp, PC, wardrobe, bike, etc.<br>
+Textures for walls, floor, ceiling, and objects (e.g., wood, metal, posters).<br>
 
 •HUD and UI:
-On-screen FPS display (smoothed and calibrated).
-Help menu with controls and status (toggle with 'H').
-Fullscreen support (F11).
+On-screen FPS display (smoothed and calibrated).<br>
+Help menu with controls and status (toggle with 'H').<br>
+Fullscreen support (F11).<br>
 
 •Performance:
 FPS calculation with smoothing for stable display.
